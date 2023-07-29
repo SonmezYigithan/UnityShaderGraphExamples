@@ -1,4 +1,4 @@
-# UnityShaderGraphExamples
+# Unity Shader Graph Examples
 
 ## Change Color From Top To Bottom
 
